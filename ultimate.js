@@ -1,6 +1,6 @@
 /**
  * Print information about the project
  */
-function getInfo() {
+export function getInfo() {
 	console.log("This is A Rebase Project");
 }
