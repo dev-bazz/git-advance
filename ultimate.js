@@ -4,3 +4,5 @@
 export function getInfo() {
 	console.log("This is A Rebase Project");
 }
+
+console.log("Hello, World!");
